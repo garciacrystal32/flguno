@@ -1,0 +1,2 @@
+# flguno
+Daily digest notes
